@@ -9,5 +9,5 @@
   "theme": "flow",
   "css": "./custom.css",
   "footer": "Bush Did 9/11",
-  "usage-stats": false
+  "usage-stats": true
 }
