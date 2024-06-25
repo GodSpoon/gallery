@@ -1,10 +1,10 @@
 {
   "input": "./gallery",
+  "thumb-size": "200",
   "output": "./build_output",
   "title": "wow its pictures",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
-  "download-photos": "copy",
   "cleanup": true,
   "theme": "flow",
   "css": "./custom.css",
